@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none !important;
+    box-sizing: border-box !important;
+    list-style: none !important;
+}
+
+.bg_img {
+    background-image: url("../img/png/25th\ Feb.png");
+}
+
+/* font-family*/
+.ff_Roboto {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.ff_Noto_Serif {
+    font-family: 'Noto Serif', sans-serif;
+}
+
+.max_w_326 {
+    max-width: 326px;
+}
+
+.boteder_none {
+    border: none !important;
+}
+
+.slick-dots {
+    display: none !important;
+}
+
+.slick-dotted.slick-slider {
+    margin-bottom: 0 !important;
+}
+
+.border_left {
+    border-left: 2px solid black;
+}
+
+.border_right {
+    border-right: 2px solid black;
+}
+
+.border_top {
+    border-top: 2px solid black;
+}
+
+.border_bottom {
+    border-bottom: 2px solid black;
+}
+
+.Mint {
+    border: 2px solid #000000;
+    padding: 10px 15px !important;
+}
+
+.border_2_black {
+    border: 2px solid black;
+}
+
+.mx_212 {
+    max-width: 212px;
+}
+
+.max_w_Most {
+    max-width: 480px;
+}
+
+.ml_25 {
+    margin-left: 12px !important;
+
+}
+
+.border_right_1 {
+    border-right: 2px solid black;
+}
+
+@media (min-width:992px) {
+
+    .border_left_lg {
+        border-left: 2px solid black;
+    }
+}
